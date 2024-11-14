@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "xi'an-China"
+locale                   : "China Xian"
 title                    : "Xinpeng Yang / AcademicPage"
 title_separator          : "-"
 name                     : &name "Your Name"
